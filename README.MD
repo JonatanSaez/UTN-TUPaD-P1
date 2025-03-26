@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- Facundo Bistevins 
+- Facundo Bistevins
 - **Comisión:** M2025-25  
 
 ## 📂 Descripción del Repositorio  
